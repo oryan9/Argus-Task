@@ -6,7 +6,8 @@
 
 ###### Modelin içinde sayısal id yerine GUID (Global Unique ID) kullandım.
 
-![Model](/card-model1.png)
+![Model]![card-model1](https://user-images.githubusercontent.com/63560783/209656629-f9fe9d81-f8e2-44ca-846e-e6dbefc6c57b.png)
+
 
 ### Frontend
 
