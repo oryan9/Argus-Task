@@ -6,7 +6,7 @@
 
 ###### Modelin içinde sayısal id yerine GUID (Global Unique ID) kullandım.
 
-![Model](/card-model.png)
+![Model](/card-model1.png)
 
 ### Frontend
 
@@ -14,7 +14,7 @@
 
 ###### Frontend kısmında model ve servisleri kullanarak basit bir CRUD operasyon tasarımı yaptım.
 
-![Frontend](/frontend.png)
+![Frontend](/frontend2.png)
 
 
 **_Dosyaların  içinden versiyon kontrol sistemine aktarımı kolay olması amacı ile  bin,obj ve node_modules dosyaları silinmiştir._**
